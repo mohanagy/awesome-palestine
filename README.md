@@ -1,6 +1,6 @@
 # Awesome Palestine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mohanagy/awesome-palestine)
 
-A curated list of awesome open source projects in Palestine or by Palestinian.
+A curated list of awesome open source projects in Palestine or by Palestinians.
 
 
 # Table of contents
