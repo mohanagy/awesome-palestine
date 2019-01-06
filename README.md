@@ -83,4 +83,4 @@ Your contributions are always welcome! Just make sure that your project is: **us
 
 
 # Credits
-Inspired by [awesome-jordan](https://raw.githubusercontent.com/jordanopensource/awesome-jordan) and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs). 
+Inspired by [awesome-jordan](https://github.com/jordanopensource/awesome-jordan) and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs). 
